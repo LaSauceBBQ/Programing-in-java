@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4886fa2e-543a-4a02-a397-d457a1fd26ea" name="Changes" comment="Lab00 commit">
+    <list default="true" id="4886fa2e-543a-4a02-a397-d457a1fd26ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab00/build/reports/tests/test/classes/agh.ii.prinjava.lab00.lst00_01.CalcTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/classes/agh.ii.prinjava.lab00.lst00_01.CalcTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab00/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab00/build/reports/tests/test/packages/agh.ii.prinjava.lab00.lst00_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/packages/agh.ii.prinjava.lab00.lst00_01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab00/build/test-results/test/TEST-agh.ii.prinjava.lab00.lst00_01.CalcTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab00/build/test-results/test/TEST-agh.ii.prinjava.lab00.lst00_01.CalcTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab00/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/lab00/build/test-results/test/binary/results.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "openjdk-18"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -103,7 +110,7 @@
       <workItem from="1676300645539" duration="4419000" />
       <workItem from="1676310851105" duration="983000" />
       <workItem from="1676848637969" duration="672000" />
-      <workItem from="1676884615338" duration="1007000" />
+      <workItem from="1676884615338" duration="3300000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676300748161</created>
@@ -119,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676311796368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab01 commit">
+      <created>1676885635574</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676885635574</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Lab00 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab00 commit" />
+    <MESSAGE value="Lab01 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab01 commit" />
   </component>
 </project>

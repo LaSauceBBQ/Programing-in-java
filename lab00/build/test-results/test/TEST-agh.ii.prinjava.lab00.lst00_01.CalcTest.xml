@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="agh.ii.prinjava.lab00.lst00_01.CalcTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-13T18:09:11" hostname="OKAY" time="0.021">
+<testsuite name="agh.ii.prinjava.lab00.lst00_01.CalcTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-20T09:34:36" hostname="OKAY" time="0.043">
   <properties/>
-  <testcase name="add()" classname="agh.ii.prinjava.lab00.lst00_01.CalcTest" time="0.021"/>
+  <testcase name="add()" classname="agh.ii.prinjava.lab00.lst00_01.CalcTest" time="0.043"/>
   <system-out><![CDATA[CalcTest.setUp...
 CalcTest.tearDown...
 ]]></system-out>
